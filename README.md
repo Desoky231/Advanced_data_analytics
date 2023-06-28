@@ -5,7 +5,8 @@ All the projects I made in the Advanced Google Data Analytics Course
 
 ## Course1 : [Foundation of data science](https://coursera.org/verify/PGW97H4WGXZP )
 
-I learned all the essential member of the data proffecional team and how to work with them in order get the most
-out of them.
-I also learned the PACE (Plan , Analyze , Construct , Execute) for the work flow sturcutre, where I learned how to make 
-project proposals and how communicate with each memebr of the team.
+- Acquired comprehensive knowledge about the key roles within a data professional team and learned effective strategies to collaborate with team members for maximum productivity.
+- Mastered the PACE (Plan, Analyze, Construct, Execute) workflow structure, gaining proficiency in developing project proposals and enhancing communication with every team member.
+- Explored the significance of working alongside data professionals and discovered how to optimize their expertise for achieving exceptional outcomes.
+- Developed skills to create efficient project plans, perform thorough data analysis, construct robust solutions, and execute projects successfully.
+- Excited to leverage these valuable insights and skills to contribute to impactful data-driven projects and drive meaningful business outcomes.
