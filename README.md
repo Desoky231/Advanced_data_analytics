@@ -1,7 +1,7 @@
 # Advanced_data_analytics
 All the projects I made in the Advanced Google Data Analytics Course
 
-## The track is made from 6 courses and each one has a end-of-course-project
+## The track is made of 6 courses and each one has a end-of-course-project
 
 ## Course1 : [Foundation of data science](https://coursera.org/verify/PGW97H4WGXZP )
 
