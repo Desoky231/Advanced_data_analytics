@@ -10,3 +10,10 @@ All the projects I made in the Advanced Google Data Analytics Course
 - Explored the significance of working alongside data professionals and discovered how to optimize their expertise for achieving exceptional outcomes.
 - Developed skills to create efficient project plans, perform thorough data analysis, construct robust solutions, and execute projects successfully.
 - Excited to leverage these valuable insights and skills to contribute to impactful data-driven projects and drive meaningful business outcomes.
+
+## Course2 : [Get Started with Python](https://www.coursera.org/account/accomplishments/certificate/DG7MER8D92D3)
+
+-started to learn about Python syntax. 
+-learned how to use Jupyter Notebook with Python for analysis.
+-Numpy and Pandas library and used them to analyze data. 
+-learned how to make reports for the final results.
