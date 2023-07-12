@@ -13,7 +13,7 @@ All the projects I made in the Advanced Google Data Analytics Course
 
 ## Course2 : [Get Started with Python](https://www.coursera.org/account/accomplishments/certificate/DG7MER8D92D3)
 
--started to learn about Python syntax. 
--learned how to use Jupyter Notebook with Python for analysis.
--Numpy and Pandas library and used them to analyze data. 
--learned how to make reports for the final results.
+-  started to learn about Python syntax. 
+-  learned how to use Jupyter Notebook with Python for analysis.
+-  Numpy and Pandas library and used them to analyze data. 
+-  learned how to make reports for the final results.
